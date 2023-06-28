@@ -10,6 +10,7 @@ int test(int inp1, char inp2){
     return(inp1 + (int) inp2);
 };
 
+// main func
 int main(int argc, char const *argv[])
 {
     printf("\nhello :) \n");
